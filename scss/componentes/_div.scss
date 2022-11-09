@@ -1,0 +1,12 @@
+.box1{
+    @extend %display;
+}
+
+.box2{
+    @extend %display;
+    margin-top: 20px;
+}
+
+.texto2{
+    text-align: center;
+}

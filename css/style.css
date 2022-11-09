@@ -1,0 +1,104 @@
+.box2, .box1, .contenedorf, .contenedor4, .contenedor2 {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.bnavegacion {
+  background-color: orange;
+}
+
+.fimagennav {
+  border-radius: 50px;
+}
+
+.imagenppal {
+  width: 100%;
+}
+
+.contenedor {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+}
+
+.centrado {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: whitesmoke;
+}
+
+@media screen and (max-width: 610px) {
+  .centrado {
+    font-size: 10px;
+  }
+}
+.head2 {
+  text-align: center;
+}
+
+.par2, .dpar2 {
+  text-align: center;
+}
+
+.img2 {
+  width: 130px;
+  height: 130px;
+  margin-left: 80px;
+}
+
+.contenedor3 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.p3 {
+  font-size: 22px;
+}
+
+.p31 {
+  font-size: 20px;
+}
+
+.contenedor31 {
+  margin: 20px;
+}
+
+.div4 {
+  text-align: center;
+}
+
+.lif {
+  list-style: none;
+}
+
+.iconoredes {
+  list-style: none;
+}
+
+.imgf {
+  width: 20px;
+}
+
+.mapaf {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.imapf {
+  width: 75%;
+}
+
+.box2 {
+  margin-top: 20px;
+}
+
+.texto2 {
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */

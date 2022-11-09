@@ -1,0 +1,24 @@
+.imagenppal{
+    width: $Anchoi;
+}
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: whitesmoke;
+}
+
+@media screen and (max-width:610px) {
+    .centrado{
+        font-size: 10px;
+    }
+}

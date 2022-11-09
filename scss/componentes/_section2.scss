@@ -1,0 +1,17 @@
+.head2{
+    text-align: center;
+}
+
+.par2, .dpar2 {
+    text-align: center;
+}
+
+.contenedor2{
+    @extend %display
+}
+
+.img2{
+    width: 130px;
+    height: 130px;
+    margin-left: 80px;
+}
