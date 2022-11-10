@@ -44,6 +44,10 @@
   text-align: center;
 }
 
+.contenedor2 {
+  overflow: hidden;
+}
+
 .img2 {
   width: 130px;
   height: 130px;
@@ -65,6 +69,10 @@
 
 .contenedor31 {
   margin: 20px;
+}
+
+.contenedor4 {
+  overflow: hidden;
 }
 
 .div4 {

@@ -1,11 +1,23 @@
 {
   "name": "proyecto-entrega-3",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guch89/preentrega3-mamani.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Guch89/preentrega3-mamani/issues"
+  },
+  "homepage": "https://github.com/Guch89/preentrega3-mamani#readme",
+  "description": "",
+  "devDependencies": {
+    "node-sass": "^8.0.0",
+    "nodemon": "^2.0.20"
+  }
 }

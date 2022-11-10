@@ -1,5 +1,6 @@
 .contenedor4{
-    @extend %display
+    @extend %display;
+    overflow: hidden;
 }
 
 .div4{
